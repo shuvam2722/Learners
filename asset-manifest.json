@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shuvam2722/Learners.git/static/css/main.7a40edcb.css",
+    "main.js": "/shuvam2722/Learners.git/static/js/main.2008d0c7.js",
+    "static/js/787.84f41c48.chunk.js": "/shuvam2722/Learners.git/static/js/787.84f41c48.chunk.js",
+    "index.html": "/shuvam2722/Learners.git/index.html",
+    "main.7a40edcb.css.map": "/shuvam2722/Learners.git/static/css/main.7a40edcb.css.map",
+    "main.2008d0c7.js.map": "/shuvam2722/Learners.git/static/js/main.2008d0c7.js.map",
+    "787.84f41c48.chunk.js.map": "/shuvam2722/Learners.git/static/js/787.84f41c48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a40edcb.css",
+    "static/js/main.2008d0c7.js"
+  ]
+}
