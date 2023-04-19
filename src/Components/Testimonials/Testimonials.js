@@ -35,7 +35,7 @@ export default function MyApp() {
                 <div className="mt-14 md:flex">
                   <div className="relative lg:w-1/2 sm:w-96 xl:h-96 h-80">
                     <img
-                      src="./img/wow1.jpg"
+                      src="./img/4.jpg"
                       alt="image of profile"
                       className="w-full h-full flex-shrink-0 object-fit object-cover shadow-lg rounded"
                     />
