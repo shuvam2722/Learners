@@ -37,7 +37,7 @@ function Event() {
                 class="group relative flex h-96 items-end overflow-hidden rounded-lg bg-gray-100 p-4 shadow-lg"
               >
                 <img
-                  src="https://pbs.twimg.com/ext_tw_video_thumb/1527279023449161733/pu/img/ZwW90jIvrGXdM-Mt.jpg:large?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
+                  src="https://pbs.twimg.com/ext_tw_video_thumb/1417824940510826498/pu/img/TZxhUJ9FRkbMKvOx.jpg?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
                   loading="lazy"
                   alt=""
                   class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
